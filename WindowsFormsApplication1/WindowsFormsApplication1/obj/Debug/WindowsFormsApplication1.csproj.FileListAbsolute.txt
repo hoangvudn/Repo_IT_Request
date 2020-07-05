@@ -1,0 +1,50 @@
+E:\Vu's Data1\IT SoftWare\Learn C Sharp\Project_Request_IT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Vu's Data1\IT SoftWare\Learn C Sharp\Project_Request_IT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Vu's Data1\IT SoftWare\Learn C Sharp\Project_Request_IT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Vu's Data1\IT SoftWare\Learn C Sharp\Project_Request_IT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Vu's Data1\IT SoftWare\Learn C Sharp\Project_Request_IT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FStaffRequest.resources
+E:\Vu's Data1\IT SoftWare\Learn C Sharp\Project_Request_IT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Vu's Data1\IT SoftWare\Learn C Sharp\Project_Request_IT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Vu's Data1\IT SoftWare\Learn C Sharp\Project_Request_IT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Vu's Data1\IT SoftWare\Learn C Sharp\Project_Request_IT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Vu's Data1\IT SoftWare\Learn C Sharp\Project_Request_IT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FDepartment.resources
+E:\Vu's Data1\IT SoftWare\Learn C Sharp\Project_Request_IT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmTest.resources
+E:\Vu's Data1\IT SoftWare\Learn C Sharp\Project_Request_IT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmMain.resources
+E:\Vu's Data1\IT SoftWare\Learn C Sharp\Project_Request_IT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmChucDanh.resources
+E:\Vu's Data1\IT SoftWare\Learn C Sharp\Project_Request_IT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmDanhMucYC.resources
+E:\Vu's Data1\IT SoftWare\Learn C Sharp\Project_Request_IT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmSendRequest.resources
+E:\Vu's Data1\IT SoftWare\Learn C Sharp\Project_Request_IT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmCreatUser.resources
+E:\Vu's Data1\IT SoftWare\Learn C Sharp\Project_Request_IT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmLogin.resources
+E:\Vu's Data1\IT SoftWare\Learn C Sharp\Project_Request_IT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmChangePass.resources
+E:\Vu's Data1\IT SoftWare\Learn C Sharp\Project_Request_IT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmReportTest.resources
+E:\Vu's Data1\IT SoftWare\Learn C Sharp\Project_Request_IT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+E:\Vu's Data1\IT SoftWare\Learn C Sharp\Project_Request_IT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+E:\Vu's Data1\IT SoftWare\Learn C Sharp\Project_Request_IT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TrustInfo.xml
+E:\Vu's Data1\IT SoftWare\Learn C Sharp\Project_Request_IT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.manifest
+E:\Vu's Data1\IT SoftWare\Learn C Sharp\Project_Request_IT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.application
+E:\Vu's Data1\IT SoftWare\Learn C Sharp\Project_Request_IT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmMakeRequest.resources
+F:\Project C Shap\IT Request\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\Project C Shap\IT Request\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmMakeRequest.resources
+F:\Project C Shap\IT Request\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmReportTest.resources
+F:\Project C Shap\IT Request\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FDepartment.resources
+F:\Project C Shap\IT Request\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FStaffRequest.resources
+F:\Project C Shap\IT Request\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmChangePass.resources
+F:\Project C Shap\IT Request\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmChucDanh.resources
+F:\Project C Shap\IT Request\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmCreatUser.resources
+F:\Project C Shap\IT Request\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmDanhMucYC.resources
+F:\Project C Shap\IT Request\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmLogin.resources
+F:\Project C Shap\IT Request\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmMain.resources
+F:\Project C Shap\IT Request\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmSendRequest.resources
+F:\Project C Shap\IT Request\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmTest.resources
+F:\Project C Shap\IT Request\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Project C Shap\IT Request\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\Project C Shap\IT Request\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Project C Shap\IT Request\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Project C Shap\IT Request\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+F:\Project C Shap\IT Request\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+F:\Project C Shap\IT Request\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\Project C Shap\IT Request\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\Project C Shap\IT Request\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TrustInfo.xml
+F:\Project C Shap\IT Request\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.manifest
+F:\Project C Shap\IT Request\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.application
+F:\Project C Shap\IT Request\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
